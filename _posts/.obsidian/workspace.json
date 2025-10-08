@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "2025-10-08-TITLE_123.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "2025-10-08-TITLE_123.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "2025-10-08-TITLE_123.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test 의 백링크"
+              "title": "2025-10-08-TITLE_123.md 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "2025-10-08-TITLE_123.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test 의 나가는 링크"
+              "title": "2025-10-08-TITLE_123.md 의 나가는 링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "2025-10-08-TITLE_123.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 의 개요"
+              "title": "2025-10-08-TITLE_123.md 의 개요"
             }
           }
         ]
@@ -171,6 +171,6 @@
   },
   "active": "fec891d38d761a48",
   "lastOpenFiles": [
-    "test.md"
+    "2025-10-08-TITLE_123.md.md"
   ]
 }
