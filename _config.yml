@@ -36,10 +36,12 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: eh2ll
   # email: example@domain.com # change to your email address
-  # links:
-  #   # The first element serves as the copyright owner's link
-  #   - https://twitter.com/username # change to your Twitter homepage
-  #   - https://github.com/username # change to your GitHub homepage
+  links:
+    # The first element serves as the copyright owner's link and is used
+    # as the author's href in the theme. Provide your homepage or profile
+    # to avoid generating an empty href (which fails HTML-Proofer).
+    - https://github.com/eh2ll
+    - https://twitter.com/
   #   # Uncomment below to add more social links
   #   # - https://www.facebook.com/username
   #   # - https://www.linkedin.com/in/username
