@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "2025-10-08-TITLE_123"
             }
+          },
+          {
+            "id": "8e10fc9a8e3be81f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.14"
+            }
           }
         ]
       }
@@ -171,6 +183,7 @@
   },
   "active": "fec891d38d761a48",
   "lastOpenFiles": [
+    "2025-11-20-Krypton.md",
     "2025-10-08-TITLE_123.md"
   ]
 }
